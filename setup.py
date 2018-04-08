@@ -10,6 +10,7 @@ setup(
     author_email='info@divio.ch',
     url='https://github.com/stefanfoulis/django-addons-formlib',
     packages=find_packages(),
+    python_requires='>=3.6',
     include_package_data=True,
     zip_safe=False,
 )
