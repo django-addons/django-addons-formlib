@@ -8,7 +8,7 @@ setup(
     description='django-addons Framework form library',
     author='Divio AG',
     author_email='info@divio.ch',
-    url='https://github.com/stefanfoulis/django-addons-formlib',
+    url='https://github.com/django-addons/django-addons-formlib',
     packages=find_packages(),
     python_requires='>=3.6',
     include_package_data=True,
